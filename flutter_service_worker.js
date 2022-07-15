@@ -4,25 +4,24 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "34c63473ed9e75ea1901d03b6cae89ea",
-"index.html": "767c9034f9ee8adda7701783cc4383fe",
-"/": "767c9034f9ee8adda7701783cc4383fe",
-"main.dart.js": "8314de973511aa4de0a9b9c411f428a2",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"index.html": "fc5ad3cb921a2870abd0aa1900a7e73f",
+"/": "fc5ad3cb921a2870abd0aa1900a7e73f",
+"main.dart.js": "df37f4d9d40bccf328f02b14a00e5eef",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "43996374e97b5921013322a9cc067c4f",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+"assets/AssetManifest.json": "15d9cc8640ec16a03596236d798774a9",
 "assets/NOTICES": "74a5bed8b0d964bf30fe1606ecdcdefe",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/kitten.png": "2d5dc639579140745bdbecb58675aa77",
+"assets/assets/elephant.png": "8d4589c1af3ea4910e458624028762b3",
+"assets/assets/question.jpg": "ae789eaa3f3b048a717de1812851b679",
+"assets/assets/monkey.png": "449f591d55da59908e2421f21a10fb6a"
 };
 
 // The application shell files that are downloaded before a service worker can

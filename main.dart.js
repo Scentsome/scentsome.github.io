@@ -46888,7 +46888,8 @@ return A.a2e(this.r,s.b.a4(0,r.gt(r)),B.dh)}}
 A.vv.prototype={
 W(a,b){return this.e.$2(b,this.f)}}
 A.qg.prototype={
-aP(){return new A.yr(A.a([A.M0("images/monkey.png"),A.M0("images/kitten.png"),A.M0("images/elephant.png")],t.C1),A.M0("images/question.jpg"),B.o)}}
+aP(){var s="monkey.png"
+return new A.yr(A.a([A.M0(s),A.M0("kitten.png"),A.M0("elephant.png")],t.C1),A.M0(s),B.o)}}
 A.yr.prototype={
 W(a,b){var s=null
 return new A.q2(new A.wu(B.iS,B.zR,B.p_,B.jx,s,B.iL,s,A.a([A.a_E(this.d,s,s,s),A.a_E("Line two",s,s,s),new A.AR(new A.NW(this),s,s,s,s,B.G,s,!1,A.a_E("Press",s,s,s),s),this.f],t.l),s),s)}}
